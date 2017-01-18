@@ -59,6 +59,7 @@ public class ChooseAreaFragment extends Fragment {
 
     private int currentLevel;//当前选中的级别
 
+
     @Override
     public View onCreateView(LayoutInflater inflater,  ViewGroup container,  Bundle savedInstanceState) {
 
