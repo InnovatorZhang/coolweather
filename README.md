@@ -1,3 +1,3 @@
 # coolweather
 >看图
-![](raw/master/photo/"one.jpg)
+![](https://github.com/InnovatorZhang/coolweather/blob/master/photo/one.jpg)
