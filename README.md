@@ -1,3 +1,3 @@
 # coolweather
 >看图
-![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
+![baidu](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif "百度logo")
