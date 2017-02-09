@@ -1,3 +1,3 @@
 # coolweather
 >看图
-![](photo/"one.jpg)
+![](raw/master/photo/"one.jpg)
